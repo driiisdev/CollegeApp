@@ -1,0 +1,33 @@
+2024-06-06 10:52:45,187  WARN Microsoft.AspNetCore.Server.Kestrel.Core.KestrelServer.? [?] - MESSAGE: The ASP.NET Core developer certificate is not trusted. For information about trusting the ASP.NET Core developer certificate, see https://aka.ms/aspnet/https-trust-dev-cert.
+ 2024-06-06 10:52:45,201  WARN Microsoft.AspNetCore.Server.Kestrel.Core.KestrelServer.? [?] - MESSAGE: The ASP.NET Core developer certificate is not trusted. For information about trusting the ASP.NET Core developer certificate, see https://aka.ms/aspnet/https-trust-dev-cert.
+ 2024-06-06 10:52:45,218  INFO Microsoft.Hosting.Lifetime.? [?] - MESSAGE: Now listening on: https://localhost:7268
+ 2024-06-06 10:52:45,218  INFO Microsoft.Hosting.Lifetime.? [?] - MESSAGE: Now listening on: https://localhost:7268
+ 2024-06-06 10:52:45,220  INFO Microsoft.Hosting.Lifetime.? [?] - MESSAGE: Now listening on: http://localhost:5293
+ 2024-06-06 10:52:45,220  INFO Microsoft.Hosting.Lifetime.? [?] - MESSAGE: Now listening on: http://localhost:5293
+ 2024-06-06 10:52:45,221  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Application started. Press Ctrl+C to shut down.
+ 2024-06-06 10:52:45,222  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Application started. Press Ctrl+C to shut down.
+ 2024-06-06 10:52:45,222  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Hosting environment: Development
+ 2024-06-06 10:52:45,222  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Hosting environment: Development
+ 2024-06-06 10:52:45,222  INFO Microsoft.Hosting.Lifetime.Invoke [0] - MESSAGE: Content root path: C:\Users\MSI\driiisdev\collegeapp
+ 2024-06-06 10:52:45,222  INFO Microsoft.Hosting.Lifetime.Invoke [0] - MESSAGE: Content root path: C:\Users\MSI\driiisdev\collegeapp
+ 2024-06-06 10:53:07,492  INFO CollegeApp.Controllers.DemoController.Index [23] - MESSAGE: Log message from trace method
+ 2024-06-06 10:53:07,510  INFO CollegeApp.Controllers.DemoController.Index [23] - MESSAGE: Log message from trace method
+ 2024-06-06 10:53:07,514  WARN CollegeApp.Controllers.DemoController.Index [24] - MESSAGE: Log message from trace method
+ 2024-06-06 10:53:07,517  WARN CollegeApp.Controllers.DemoController.Index [24] - MESSAGE: Log message from trace method
+ 2024-06-06 10:53:07,520 ERROR CollegeApp.Controllers.DemoController.Index [25] - MESSAGE: Log message from trace method
+ 2024-06-06 10:53:07,521 ERROR CollegeApp.Controllers.DemoController.Index [25] - MESSAGE: Log message from trace method
+ 2024-06-06 10:53:09,154  INFO CollegeApp.Controllers.DemoController.Index [23] - MESSAGE: Log message from trace method
+ 2024-06-06 10:53:09,155  INFO CollegeApp.Controllers.DemoController.Index [23] - MESSAGE: Log message from trace method
+ 2024-06-06 10:53:09,156  WARN CollegeApp.Controllers.DemoController.Index [24] - MESSAGE: Log message from trace method
+ 2024-06-06 10:53:09,157  WARN CollegeApp.Controllers.DemoController.Index [24] - MESSAGE: Log message from trace method
+ 2024-06-06 10:53:09,158 ERROR CollegeApp.Controllers.DemoController.Index [25] - MESSAGE: Log message from trace method
+ 2024-06-06 10:53:09,158 ERROR CollegeApp.Controllers.DemoController.Index [25] - MESSAGE: Log message from trace method
+ 2024-06-06 10:54:15,741  INFO CollegeApp.Controllers.StudentController.GetStudents [32] - MESSAGE: ur message
+ 2024-06-06 10:54:15,743  INFO CollegeApp.Controllers.StudentController.GetStudents [32] - MESSAGE: ur message
+ 2024-06-06 10:54:17,389  INFO CollegeApp.Controllers.StudentController.GetStudents [32] - MESSAGE: ur message
+ 2024-06-06 10:54:17,391  INFO CollegeApp.Controllers.StudentController.GetStudents [32] - MESSAGE: ur message
+ 2024-06-06 10:54:37,399 ERROR CollegeApp.Controllers.StudentController.GetStudentById [70] - MESSAGE: student not found with given id
+ 2024-06-06 10:54:37,400 ERROR CollegeApp.Controllers.StudentController.GetStudentById [70] - MESSAGE: student not found with given id
+ 2024-06-06 10:54:38,759 ERROR CollegeApp.Controllers.StudentController.GetStudentById [70] - MESSAGE: student not found with given id
+ 2024-06-06 10:54:38,760 ERROR CollegeApp.Controllers.StudentController.GetStudentById [70] - MESSAGE: student not found with given id
+ 
